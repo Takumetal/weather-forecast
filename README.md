@@ -8,13 +8,13 @@ Djangoで実装されています。
 
 ## Requirement
 Python3.6  
-certifi==2018.11.29
-chardet==3.0.4
-Django==2.1.5
-idna==2.8
-pytz==2018.9
-requests==2.21.0
-urllib3==1.24.1
+certifi==2018.11.29  
+chardet==3.0.4  
+Django==2.1.5  
+idna==2.8  
+pytz==2018.9  
+requests==2.21.0  
+urllib3==1.24.1  
 
 ## Usage
 1. Githubからリポジトリをクローン
