@@ -35,7 +35,7 @@ Install required libraries using pip
 $ pip install -r requirements.txt 
 ```
 4. OpenWeatherMap APIのAPIキーを取得して、以下に設定する  
-Get the API key for the Azure Bing Image Search API and set it as follows.
+Get the API key for the OpenWeatherMap API and set it as follows.
 ```
 weather/views.py
 API_KEY = ''
